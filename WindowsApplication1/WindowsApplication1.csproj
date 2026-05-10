@@ -10,9 +10,4 @@
     <Nullable>disable</Nullable>
     <NoWarn>$(NoWarn);CA1416</NoWarn>
   </PropertyGroup>
-
-  <ItemGroup>
-    <Compile Remove="Properties\Settings.Designer.cs" />
-    <None Include="Properties\Settings.settings" />
-  </ItemGroup>
 </Project>
