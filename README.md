@@ -19,6 +19,12 @@ Excel を COM の遅延バインディングで操作する Windows Forms サン
 - .NET SDK 8 以降
 - Microsoft Excel
 
+## ビルド方法
+
+```powershell
+dotnet build WindowsApplication1.sln
+```
+
 ## 実行方法
 
 ```powershell
