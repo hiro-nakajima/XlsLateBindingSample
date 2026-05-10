@@ -1,0 +1,18 @@
+# Build outputs
+bin/
+obj/
+build-check/
+
+# Visual Studio / C# Dev Kit local state
+.vs/
+*.suo
+*.user
+*.rsuser
+*.csproj.legacy
+
+# Runtime files
+*.log
+
+# OS files
+Thumbs.db
+Desktop.ini
